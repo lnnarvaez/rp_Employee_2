@@ -1,0 +1,26 @@
+[
+  {
+    "IdentityCard": "201-260582-0005U",
+    "Name": "Joaquin Jose",
+    "LastName": "Morales Ramirez",
+    "Phone": "8696-0583",
+    "Email": "joaquinmorales@gmail.com",
+    "Sex": "Masculino",
+    "BirthDate": "1988-08-16",
+    "DateEntry": "1990-03-31",
+    "Salary": 20000,
+    "Bonus": 1000
+  },
+  {
+    "IdentityCard": "101-310686-9876L",
+    "Name": "Miguel Antonio",
+    "LastName": "Lara Flores",
+    "Phone": "9089-2478",
+    "Email": "miguelflores@gmail.com",
+    "Sex": "Masculino",
+    "BirthDate": "1986-06-28",
+    "DateEntry": "2010-05-13",
+    "Salary": 25000,
+    "Bonus": 800
+  }
+]
